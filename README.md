@@ -37,7 +37,7 @@ translated strings, or omitted entirely if it makes sense to do so.
 3. Submit a PR against `master`.
 
 
-
+ 
 ## License
 
 Contributors must assign copyright back to Loom Network for any contributions they make.
